@@ -61,10 +61,11 @@ h1{
     padding: 10px;
     background-color: #fff;
     border: 1px solid #aaaaaa;
-    min-height: 200px; 
-    border-radius: 0.25cm;
+    min-height: 300px; 
+    border-radius: 0.1cm;
 }
 
 .blog-post img{
     float: left;
+    margin: 10px;
 }
