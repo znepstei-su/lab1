@@ -40,7 +40,6 @@ h1{
     background-color: lightgrey;
     float: left;
     min-height: 500px; 
-    m
 
 }
 
@@ -55,4 +54,17 @@ h1{
 
 .main p{
     margin: 20px;
+}
+
+.blog-post {
+    margin: 10px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #aaaaaa;
+    min-height: 200px; 
+    border-radius: 0.25cm;
+}
+
+.blog-post img{
+    float: left;
 }
